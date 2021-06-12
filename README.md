@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MAD (Modern Android Development) Skills Libraries and Technologies ...
 - 📫 How to reach me? you can check me out in my Facebook Account (https://facebook.com/blackhat1999), this is the only platform that I am always active ...
 
-[Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=IAmArien&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmArien)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 IAmArien/IAmArien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
